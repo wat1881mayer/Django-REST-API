@@ -95,3 +95,5 @@ ENV/
 
 *.sqlite3
 .vagrant
+
+setting_local.py
